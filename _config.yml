@@ -16,22 +16,13 @@ show_social_icons: true         # show social icons
 
 # Navigation Bar
 navigation:
-  - {file: "index.md",      icon: home,          name: "Home"}
-  - {file: "research.md",   icon: flask,         name: "Research"}
-  - {file: "projects.md",   icon: code,          name: "Projects"}
-  - {file: "assignments.md", icon: book,         name: "Assignments"}
-  - {file: "blog.md",       icon: pen,           name: "Blog"}
-  - {file: "about.md",      icon: user,          name: "About"}
+  - {file: "index.md",           name: "Home"}
+  - {file: "research.md",        name: "Research"}
+  - {file: "projects.md",        name: "Projects"}
+  - {file: "assignments.md",     name: "Publications"}
+  - {file: "about.md",           name: "Contact"}
 
   
-#show_frame: "/assets/images/background.svg"
-
-# Menu                          # for available icons see https://fontawesome.com/v5/icons/
-
-# navigation:                     # accepts {file, title, url, icon, sidebaricon}
-#  - {file: "archive.html", sidebaricon: home}
-#  - {file: "README.md", sidebaricon: address-card}
-
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:Doyal.Kumar.Sarker@ucf.edu"}
   - {title: Github, icon: github, url: "https://github.com/doyalsarker"}
