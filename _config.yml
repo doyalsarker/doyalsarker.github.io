@@ -17,10 +17,10 @@ show_social_icons: true         # show social icons
 # Navigation Bar
 navigation:
   - {file: "index.md",           title: "Home"}
-  - {file: "research.md",        name: "Research"}
-  - {file: "projects.md",        name: "Projects"}
-  - {file: "assignments.md",     name: "Publications"}
-  - {file: "about.md",           name: "Contact"}
+  - {file: "research.md",        title: "Research"}
+  - {file: "projects.md",        title: "Projects"}
+  - {file: "assignments.md",     title: "Publications"}
+  - {file: "about.md",           title: "Contact"}
 
   
 external:                       # accepts {file, title, url, icon, sidebaricon}
