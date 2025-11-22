@@ -16,7 +16,7 @@ show_social_icons: true         # show social icons
 
 # Navigation Bar
 navigation:
-  - {file: "index.md",           name: "Home"}
+  - {file: "index.md",           title: "Home"}
   - {file: "research.md",        name: "Research"}
   - {file: "projects.md",        name: "Projects"}
   - {file: "assignments.md",     name: "Publications"}
