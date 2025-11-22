@@ -28,9 +28,9 @@ navigation:
 
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
-navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
+# navigation:                     # accepts {file, title, url, icon, sidebaricon}
+#  - {file: "archive.html", sidebaricon: home}
+#  - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:Doyal.Kumar.Sarker@ucf.edu"}
