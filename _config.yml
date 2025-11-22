@@ -14,6 +14,16 @@ show_sidebar: false             # show a sidebar instead of the usual header
 show_minimal: false             # remove all clutter
 show_social_icons: true         # show social icons
 
+# Navigation Bar
+navigation:
+  - {file: "index.md",      icon: home,          name: "Home"}
+  - {file: "research.md",   icon: flask,         name: "Research"}
+  - {file: "projects.md",   icon: code,          name: "Projects"}
+  - {file: "assignments.md", icon: book,         name: "Assignments"}
+  - {file: "blog.md",       icon: pen,           name: "Blog"}
+  - {file: "about.md",      icon: user,          name: "About"}
+
+  
 #show_frame: "/assets/images/background.svg"
 
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
