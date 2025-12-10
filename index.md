@@ -1,11 +1,13 @@
 ---
-title: About Alembic
+title: About Me
 feature_text: |
   ## Doyal Kumar Sarker
   PhD Candidate in Mechanical Engineering | Graduate Reseach Assistant at [HySES](https://mae.ucf.edu/TDas/) Lab in [UCF](https://www.ucf.edu/)
 feature_image: "/assets/Images/HomePage.png"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
+
+Hello, I am Doyal Kumar Sarker, a PhD candidate in Mechanical Engineering at University of Central Florida (UCF). I work as a Graduate Research Assistant in Hybrid Sustainable Energy Systems Laboratory (HySES) Laboratory. 
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
 
