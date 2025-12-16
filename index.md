@@ -14,6 +14,7 @@ Hello, I am Doyal Kumar Sarker. Welcome to my site!
 A PhD candidate in Mechanical Engineering at [University of Central Florida (UCF)](https://www.ucf.edu/). For over four years, I have been working as a Graduate Research Assistant in the [Hybrid Sustainable Energy Systems Laboratory (HySES) Laboratory](https://mae.ucf.edu/TDas/). My research focuses on dynamics and control, multi-physics modeling, and hydrodynamic analysis, with particular emphasis on offshore platforms and floating structures for renewable energy applications. 
 
 In particular my research emphasize:
+- Offshore hydrodynamics and Fluid-structure interaction
 <ul>
   <li> Offshore hydrodynamics and Fluid-structure interaction</li>
 </ul>
