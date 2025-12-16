@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About
 feature_text: |
   ## Doyal Kumar Sarker
   PhD Candidate in Mechanical Engineering | Graduate Reseach Assistant at [HySES](https://mae.ucf.edu/TDas/) Lab in [UCF](https://www.ucf.edu/)
@@ -11,7 +11,12 @@ Hello, I am Doyal Kumar Sarker. Welcome to my site!
 
 
 
-A PhD candidate in Mechanical Engineering at [University of Central Florida (UCF)](https://www.ucf.edu/). For over four years, I have been working as a Graduate Research Assistant in the [Hybrid Sustainable Energy Systems Laboratory (HySES) Laboratory](https://mae.ucf.edu/TDas/). My research focuses on dynamics and control, multi-physics modeling, and hydrodynamic analysis, with particular emphasis on offshore platforms and floating structures for renewable energy applications.  
+A PhD candidate in Mechanical Engineering at [University of Central Florida (UCF)](https://www.ucf.edu/). For over four years, I have been working as a Graduate Research Assistant in the [Hybrid Sustainable Energy Systems Laboratory (HySES) Laboratory](https://mae.ucf.edu/TDas/). My research focuses on dynamics and control, multi-physics modeling, and hydrodynamic analysis, with particular emphasis on offshore platforms and floating structures for renewable energy applications. 
+
+In particular my research emphasize:
+<ul>
+  <li> Offshore hydrodynamics and Fluid-structure interaction</li>
+</ul>
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
 
