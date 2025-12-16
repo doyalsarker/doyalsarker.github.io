@@ -15,6 +15,7 @@ A PhD candidate in Mechanical Engineering at [University of Central Florida (UCF
 
 In particular my research emphasize:
 - Offshore hydrodynamics and Fluid-structure interaction
+- Offshore hydrodynamics and Fluid-structure interaction
 <ul>
   <li> Offshore hydrodynamics and Fluid-structure interaction</li>
 </ul>
