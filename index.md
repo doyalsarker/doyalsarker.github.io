@@ -5,6 +5,7 @@ feature_text: |
   PhD Candidate in Mechanical Engineering | Graduate Reseach Assistant at [HySES](https://mae.ucf.edu/TDas/) Lab in [UCF](https://www.ucf.edu/)
 feature_image: "/assets/Images/HomeLogo.png"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+aside: true
 ---
 
 Hello, I am Doyal Kumar Sarker. Welcome to my site!
