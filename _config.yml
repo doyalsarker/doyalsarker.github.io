@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Doyal Kumar Sarker" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "PhD candidate in Mechanical Engineering | Graduate Research Assistant at HySES Lab" # Site description and default description, also used in jekyll-seo-tag
+description: "Linkedin | GitHub | Site | GoogleScholar | ResearchGate" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
@@ -142,8 +142,8 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   LinkedIn: https://www.linkedin.com/in/doyal-kumar-sarker-5a22a418b/
   GitHub: https://github.com/doyalsarker
   link: https://doyalsarker.github.io/
-  googlescholar: https://scholar.google.com/citations?user=-waJLfwAAAAJ&hl=en
-  ResearchGate: https://www.researchgate.net/profile/Doyal-Kumar-Sarker?ev=hdr_xprf
+  link: https://scholar.google.com/citations?user=-waJLfwAAAAJ&hl=en
+  link: https://www.researchgate.net/profile/Doyal-Kumar-Sarker?ev=hdr_xprf
 
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
