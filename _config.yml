@@ -139,11 +139,12 @@ navigation_footer:
 
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
   LinkedIn: https://www.linkedin.com/in/doyal-kumar-sarker-5a22a418b/
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
-  RSS: /feed.xml
+  GitHub: https://github.com/doyalsarker
+  link: https://doyalsarker.github.io/
+  GoogleScholar: https://scholar.google.com/citations?user=-waJLfwAAAAJ&hl=en
+  ResearchGate: https://www.researchgate.net/profile/Doyal-Kumar-Sarker?ev=hdr_xprf
+
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: true
