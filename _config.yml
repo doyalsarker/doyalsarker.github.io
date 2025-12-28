@@ -95,7 +95,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Doyal Kumar Sarker" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "This website showcases my research and project work. I warmly welcome inquiries from researchers and collaborators interested in joint or interdisciplinary research opportunities. You are very welcome to contact via <a href="Doyal.Kumar.Sarker@ucf.edu">Email</a>."
+description: "This website showcases my research and project work. I warmly welcome inquiries from researchers and collaborators interested in joint or interdisciplinary research opportunities." # Site Description
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
