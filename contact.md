@@ -7,10 +7,9 @@
   <form
     action="https://formspree.io/f/xeoylvkv"
     method="POST"
+    enctype="multipart/form-data"
   >
-    <label for="name">
-      Your Name
-    </label>
+    <label for="name">Your Name</label>
     <input
       type="text"
       id="name"
@@ -19,9 +18,7 @@
       required
     >
 
-    <label for="email">
-      Your Email
-    </label>
+    <label for="email">Your Email</label>
     <input
       type="email"
       id="email"
@@ -30,9 +27,7 @@
       required
     >
 
-    <label for="message">
-      Your Message
-    </label>
+    <label for="message">Your Message</label>
     <textarea
       id="message"
       name="message"
@@ -40,6 +35,15 @@
       placeholder="Write your message here..."
       required
     ></textarea>
+
+    <!-- File upload -->
+    <label for="file">Attach a file (optional)</label>
+    <input
+      type="file"
+      id="file"
+      name="attachment"
+      accept=".pdf,.doc,.docx,.txt,.png,.jpg"
+    >
 
     <!-- Email subject -->
     <input type="hidden" name="_subject" value="New message from website">
