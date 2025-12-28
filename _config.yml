@@ -139,12 +139,9 @@ navigation_footer:
 
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Email: Doyal.Kumar.Sarker@ucf.edu
   LinkedIn: https://www.linkedin.com/in/doyal-kumar-sarker-5a22a418b/
   GitHub: https://github.com/doyalsarker
   link: https://doyalsarker.github.io/
-  link: https://scholar.google.com/citations?user=-waJLfwAAAAJ&hl=en
-  link: https://www.researchgate.net/profile/Doyal-Kumar-Sarker?ev=hdr_xprf
 
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
