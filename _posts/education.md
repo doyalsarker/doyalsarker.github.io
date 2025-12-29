@@ -2,8 +2,6 @@
 title: Education
 categories: 
 - General
-feature_text: |
-  The History of the Alembic tool
 ---
 
 ###### [University of Central Florida](https://www.ucf.edu/) (August 2021 - Present)
