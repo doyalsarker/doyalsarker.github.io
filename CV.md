@@ -1,7 +1,7 @@
 ---
 title: Curriculum Vitae (CV)
 ---
-<a class="cv-box-btn" href="{{ '/assets/Files/CV_DoyalSarker.pdf' | relative_url }}" download>
+<a class="button" href="{{ '/assets/Files/CV_DoyalSarker.pdf' | relative_url }}" download>
   Download CV
 </a>
 
