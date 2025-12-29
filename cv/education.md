@@ -1,4 +1,11 @@
-#### Education
+---
+title: Education
+categories:
+- History
+- External sources
+feature_text: |
+  The History of the Alembic tool
+---
 
 ###### [University of Central Florida](https://www.ucf.edu/) (August 2021 - Present)
 <small>**Location:** Orlando, Florida, USA </small> <br>
