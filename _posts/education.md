@@ -1,6 +1,7 @@
 ---
 title: Education
-categories: General
+categories: 
+- General
 feature_text: |
   The History of the Alembic tool
 ---
