@@ -1,7 +1,7 @@
 ---
 title: Curriculum Vitae (CV)
 ---
-{% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
+{% include button.html text="Download CV" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
 
 ### Education
 ##### [University of Central Florida](https://www.ucf.edu/) (August 2021 - Present)
