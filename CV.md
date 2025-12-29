@@ -8,12 +8,13 @@ title: Curriculum Vitae (CV)
 #### Education
 ###### [University of Central Florida](https://www.ucf.edu/) (August 2021 - Present)
 
-**Location:** Orlando, Florida, USA <br>
+<small>**Location:** Orlando, Florida, USA <br></small>
 **Degree:** PhD in Mechanical Engineering <br>
 **Research Concentration:** Multi-physics modeling, Dynamics and Control, Offshore Hydrodynamics, Ocean Wave modeling, Fluid-structure interaction <br>
 **Dissertation:** Yet to be finalized
 
-##### [University of Central Florida](https://www.ucf.edu/) (August 2021 - April 2024)
+####### [University of Central Florida](https://www.ucf.edu/) (August 2021 - April 2024)
+
 **Location:** Orlando, Florida, USA
 **Degree:** MS in Mechanical Engineering
 **Research Concentration:** , Dynamics and Control, Offshore Hydrodynamics, Ocean Wave modeling, Fluid-structure interaction
