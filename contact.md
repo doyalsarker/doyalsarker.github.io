@@ -1,7 +1,7 @@
 <section class="contact">
   <h2>Let’s Connect</h2>
   <p>
-    Reach out to me directly via <a href="mailto:Doyal.Kumar.Sarker@ucf.edu"> Doyal.Kumar.Sarker@ucf.edu </a> or using my <a href="https://www.linkedin.com/in/doyal-kumar-sarker-5a22a418b/"> LinkedIn </a> profile. You cmay      also use the contact form below to send me a message.
+    Reach out to me directly via <a href="mailto:Doyal.Kumar.Sarker@ucf.edu"> Doyal.Kumar.Sarker@ucf.edu </a> or using my <a href="https://www.linkedin.com/in/doyal-kumar-sarker-5a22a418b/"> LinkedIn </a> profile. You may also use the contact form below to send me a message.
   </p>
 
   <form
