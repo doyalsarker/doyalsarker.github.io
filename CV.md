@@ -3,6 +3,10 @@ title: Curriculum Vitae (CV)
 ---
 {% include button.html text="Download CV" link=""/assets/Files/CV_DoyalSarker.pdf"" color="#24292e" %}
 
+<a class="btn btn--primary" href="{{ '/assets/Files/CV_DoyalSarker.pdf' | relative_url }}" download>
+  Download CV
+</a>
+
 ### Education
 ##### [University of Central Florida](https://www.ucf.edu/) (August 2021 - Present)
 
