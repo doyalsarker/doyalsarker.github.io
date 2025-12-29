@@ -2,6 +2,8 @@
 title: 
 feature_text: 
 feature_image: "/assets/Images/EducationLogo.png"
-excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---
+
+# University of Central Florida (August 2021 - Present)
+PhD in Mechanical Engineering
