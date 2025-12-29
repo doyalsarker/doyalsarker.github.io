@@ -5,8 +5,8 @@ title: Curriculum Vitae (CV)
   Download CV
 </a>
 
-### Education
-##### [University of Central Florida](https://www.ucf.edu/) (August 2021 - Present)
+#### Education
+###### [University of Central Florida](https://www.ucf.edu/) (August 2021 - Present)
 
 **Location:** Orlando, Florida, USA <br>
 **Degree:** PhD in Mechanical Engineering <br>
