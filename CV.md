@@ -3,7 +3,7 @@ title: Curriculum Vitae (CV)
 ---
 {% include button.html text="Download CV" link="https://github.com/doyalsarker/doyalsarker.github.io/blob/main/assets/Files/CV_DoyalSarker.pdf" color="#24292e" %}
 
-{% include button.html text="Download CV" href="{{ '/assets/Files/CV_DoyalSarker.pdf' | relative_url }}" color="#24292e" %}
+{% include button.html text="Download CV" link="/assets/Files/CV_DoyalSarker.pdf" color="#24292e" %}
 
 <a class="btn btn--primary" href="{{ '/assets/Files/CV_DoyalSarker.pdf' | relative_url }}" download>
   Download CV
