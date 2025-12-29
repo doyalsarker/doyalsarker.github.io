@@ -1,6 +1,5 @@
 ---
-feature_image: "/assets/Images/EducationLogo.png"
-aside: false
+title: Education
 ---
 
 ##### University of Central Florida (August 2021 - Present)
