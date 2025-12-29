@@ -1,6 +1,4 @@
 ---
-title: Education
-feature_text: 
 feature_image: "/assets/Images/EducationLogo.png"
 aside: false
 ---
