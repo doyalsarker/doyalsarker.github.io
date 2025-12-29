@@ -1,8 +1,7 @@
 ---
 title: Education
 categories:
-- History
-- External sources
+- General
 feature_text: |
   The History of the Alembic tool
 ---
