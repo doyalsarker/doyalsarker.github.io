@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: 
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/assets/Images/Education.png"
 excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---
