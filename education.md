@@ -3,9 +3,10 @@ title: Education
 ---
 
 ##### [University of Central Florida](https://www.ucf.edu/) (August 2021 - Present)
-**Location:** Orlando, Florida, USA
-**Degree:** PhD in Mechanical Engineering
-**Research Concentration:** Multi-physics modeling, Dynamics and Control, Offshore Hydrodynamics, Ocean Wave modeling, Fluid-structure interaction
+
+**Location:** Orlando, Florida, USA <br>
+**Degree:** PhD in Mechanical Engineering <br>
+**Research Concentration:** Multi-physics modeling, Dynamics and Control, Offshore Hydrodynamics, Ocean Wave modeling, Fluid-structure interaction <br>
 **Dissertation:** Yet to be finalized
 
 ##### [University of Central Florida](https://www.ucf.edu/) (August 2021 - April 2024)
