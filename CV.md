@@ -3,66 +3,46 @@ title: Curriculum Vitae (CV)
 layout: page
 aside: false
 ---
+
 <a class="button" href="{{ '/assets/Files/CV_DoyalSarker.pdf' | relative_url }}" download>
   Download CV
 </a>
 
 <style>
-/* Make CV layout use full available width */
-.cv-grid{
-  width: 100%;
-  max-width: 100%;
-  display: grid;
-  grid-template-columns: 260px minmax(0, 1fr); /* wider sidebar, content fills remaining */
-  gap: 2rem;
-  align-items: start;
+/* Horizontal index (top) */
+.cv-index {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.25rem;
+  list-style: none;
+  padding-left: 0;
+  margin: 1.25rem 0 2rem 0;
+}
+.cv-index li { margin: 0; }
+.cv-index a {
+  text-decoration: none;
+  padding: 0.2rem 0.1rem;
+  border-bottom: 2px solid currentColor;
+}
+.cv-index a:hover {
+  border-bottom-style: dotted;
 }
 
-/* Prevent content from overflowing and causing weird spacing */
-.cv-content{
-  min-width: 0;
-}
-
-/* Sidebar styling */
-.cv-sidebar{
-  position: sticky;
-  top: 1.25rem;
-  padding-right: 1rem;
-  border-right: 1px solid rgba(0,0,0,0.15);
-}
-
-/* Mobile: stack */
-@media (max-width: 900px){
-  .cv-grid{ grid-template-columns: 1fr; }
-  .cv-sidebar{
-    position: static;
-    border-right: none;
-    padding-right: 0;
-    border-bottom: 1px solid rgba(0,0,0,0.15);
-    padding-bottom: 1rem;
-    margin-bottom: 1rem;
-  }
-}
+/* Optional: tighten spacing a bit */
+.cv-section { margin-top: 2.25rem; }
 </style>
 
-<div style="width:100%; max-width:100%;">
- <div class="cv-grid">
+<h3>Index</h3>
+<ul class="cv-index">
+  <li><a href="#education">Education</a></li>
+  <li><a href="#experience">Experience</a></li>
+  <li><a href="#publications">Publications</a></li>
+  <li><a href="#skills">Skills</a></li>
+</ul>
 
-  <aside class="cv-sidebar">
+<hr>
 
-
-    <h3>Index</h3>
-    <ul>
-      <li><a href="#education">Education</a></li>
-      <li><a href="#experience">Experience</a></li>
-      <li><a href="#publications">Publications</a></li>
-      <li><a href="#skills">Skills</a></li>
-    </ul>
-  </aside>
-
-  <main class="cv-content">
-
-<h3 id="education">Education</h3>
+<h3 id="education" class="cv-section">Education</h3>
 
 <h4>University of Central Florida — PhD (Aug 2021 – Present)</h4>
 <ul>
@@ -76,11 +56,11 @@ aside: false
   <li>Research: Multi-physics modeling, Dynamics & Control, Offshore Hydrodynamics, Ocean Wave modeling, Fluid-structure interaction</li>
 </ul>
 
-<h3 id="experience">Experience</h3>
-<h3 id="publications">Publications</h3>
-<h3 id="skills">Skills</h3>
+<h3 id="experience" class="cv-section">Experience</h3>
+<!-- add experience items here -->
 
+<h3 id="publications" class="cv-section">Publications</h3>
+<!-- add publications here -->
 
-   </main>
-  </div>
-</div>
+<h3 id="skills" class="cv-section">Skills</h3>
+<!-- add skills here -->
