@@ -44,8 +44,8 @@ aside: false
 }
 </style>
 
-
-<div class="cv-grid">
+<div style="width:100%; max-width:100%;">
+ <div class="cv-grid">
 
   <aside class="cv-sidebar">
 
@@ -80,5 +80,6 @@ aside: false
 <h3 id="skills">Skills</h3>
 
 
-  </main>
+   </main>
+  </div>
 </div>
