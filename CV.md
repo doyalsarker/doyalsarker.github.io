@@ -51,18 +51,16 @@ aside: false
       Download CV
     </a>
 
-    <h2>Sections</h2>
-    <ul>
-      <li><a href="#education">Education</a></li>
-      <li><a href="#experience">Experience</a></li>
-      <li><a href="#publications">Publications</a></li>
-      <li><a href="#skills">Skills</a></li>
-    </ul>
+## Sections
+- [Education](#education)
+- [Experience](#experience)
+- [Publications](#publications)
+- [Skills](#skills)
   </aside>
 
   <main class="cv-content">
 
-## Education {#education}
+## Education
 
 ### University of Central Florida — PhD (Aug 2021 – Present)
 - Location: Orlando, Florida, USA  
