@@ -49,12 +49,14 @@ aside: false
 </ul>
 
 <h5> <a href="https://www.ucf.edu/">University of Central Florida</a>      (Aug 2021 – April 2024)</h5>
+<h6>
 <ul>
   <li> <b>Degree:</b> <em>MS in Mechanical Engineering</em> </li>
   <li> <b>Location:</b> <em>Orlando, Florida, USA</em> </li>
   <li> <b>Research:</b> <em>Multi-physics modeling and simulation, Offshore Hydrodynamics, Vibration Control, Tuned Mass Damper (TMD), Wave Kinematics</em> </li>
   <li> <b>Thesis:</b> <em> Acausal Modeling and Validation of Platform Hydrodynamics of a Floating Offshore Wind Turbine <a href="https://stars.library.ucf.edu/etd2023/457/"> (See here)</a> </em> </li>
 </ul>
+</h6>
 
 <h3 id="experience" class="cv-section">Experience</h3>
 <!-- add experience items here -->
