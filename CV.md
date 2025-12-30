@@ -7,32 +7,27 @@ aside: false
 </a>
 
 <style>
-/* Two-column CV layout: sidebar (index) + main content */
+/* Make CV layout use full available width */
 .cv-grid{
   width: 100%;
   max-width: 100%;
   display: grid;
-  grid-template-columns: 260px minmax(0, 1fr);
+  grid-template-columns: 260px minmax(0, 1fr); /* wider sidebar, content fills remaining */
   gap: 2rem;
   align-items: start;
 }
 
+/* Prevent content from overflowing and causing weird spacing */
 .cv-content{
   min-width: 0;
 }
-  
+
+/* Sidebar styling */
 .cv-sidebar{
   position: sticky;
   top: 1.25rem;
   padding-right: 1rem;
   border-right: 1px solid rgba(0,0,0,0.15);
-}
-.cv-sidebar h3{
-  margin-top: 0.75rem;
-}
-.cv-sidebar ul{
-  margin: 0.5rem 0 0;
-  padding-left: 1.1rem;
 }
 
 /* Mobile: stack */
@@ -48,6 +43,7 @@ aside: false
   }
 }
 </style>
+
 
 <div class="cv-grid">
 
