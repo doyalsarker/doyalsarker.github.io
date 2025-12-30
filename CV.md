@@ -32,7 +32,6 @@ aside: false
 .cv-section { margin-top: 2.25rem; }
 </style>
 
-<h3>Index</h3>
 <ul class="cv-index">
   <li><a href="#education">Education</a></li>
   <li><a href="#experience">Experience</a></li>
