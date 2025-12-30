@@ -39,8 +39,6 @@ aside: false
   <li><a href="#skills">Skills</a></li>
 </ul>
 
-<hr>
-
 <h3 id="education" class="cv-section">Education</h3>
 
 <h4>University of Central Florida — PhD (Aug 2021 – Present)</h4>
