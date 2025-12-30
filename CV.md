@@ -1,6 +1,5 @@
 ---
 title: Curriculum Vitae (CV)
-layout: default
 aside: false
 ---
 <a class="button" href="{{ '/assets/Files/CV_DoyalSarker.pdf' | relative_url }}" download>
