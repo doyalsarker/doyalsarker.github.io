@@ -40,7 +40,10 @@ aside: false
 
 <h3 id="education" class="cv-section">Education</h3>
 
-<h5> <a href="https://www.ucf.edu/">University of Central Florida</a>      (Aug 2021 – Present)</h5>
+<h5>
+  <a href="https://www.ucf.edu/">University of Central Florida</a>
+  <span class="edu-time">(Aug 2021 – Present)</span>
+</h5>
 <ul>
   <li> <b>Degree:</b> <em>PhD in Mechanical Engineering</em> </li>
   <li> <b>Location:</b> <em>Orlando, Florida, USA</em> </li>
