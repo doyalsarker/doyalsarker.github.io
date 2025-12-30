@@ -41,7 +41,7 @@ aside: false
 <h3 id="education" class="cv-section">Education</h3>
 
 <h6> <a href="https://www.ucf.edu/">University of Central Florida</a> &nbsp;&nbsp;&nbsp; (Aug 2021 – Dec 2026)</h6>
-<ul>
+<ul style="font-size:0.9rem; line-height:1.4;">
   <li> <b>Degree:</b> <em>PhD in Mechanical Engineering</em> </li>
   <li> <b>Location:</b> <em>Orlando, Florida, USA</em> </li>
   <li> <b>Research:</b> <em>Multi-physics modeling, Dynamics & Control, Offshore Hydrodynamics, Ocean Wave modeling, Fluid-structure Interaction</em> </li>
