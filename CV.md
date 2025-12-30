@@ -35,9 +35,7 @@ aside: false
   font-size: 0.9rem;
   line-height: 1.4;
 }
-.edu-details li {
-  margin-bottom: 0.25rem;
-}
+
   
 </style>
 
