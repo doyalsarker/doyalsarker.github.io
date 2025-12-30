@@ -35,16 +35,17 @@ aside: false
 <ul class="cv-index">
   <li><a href="#education">Education</a></li>
   <li><a href="#experience">Experience</a></li>
-  <li><a href="#publications">Publications</a></li>
   <li><a href="#skills">Skills</a></li>
 </ul>
 
 <h3 id="education" class="cv-section">Education</h3>
 
-<h5>University of Central Florida — PhD (Aug 2021 – Present)</h5>
+<h5> <a href="https://www.ucf.edu/">University of Central Florida</a>      (Aug 2021 – Present)</h5>
 <ul>
+  <li>**Degree:** _PhD in Mechanical Engineering_</li>
   <li>Location: Orlando, Florida, USA</li>
   <li>Research: Multi-physics modeling, Dynamics & Control, Offshore Hydrodynamics, FSI</li>
+  <li>Dissertation: Yet to be finalized </li>
 </ul>
 
 <h4>University of Central Florida — PhD (Aug 2021 – Present)</h4>
