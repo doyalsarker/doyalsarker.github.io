@@ -3,6 +3,9 @@ title: Curriculum Vitae (CV)
 layout: page
 aside: false
 ---
+<a class="button" href="{{ '/assets/Files/CV_DoyalSarker.pdf' | relative_url }}" download>
+  Download CV
+</a>
 
 <style>
 /* Two-column CV layout: sidebar (index) + main content */
@@ -43,9 +46,7 @@ aside: false
 <div class="cv-grid">
 
   <aside class="cv-sidebar">
-    <a class="button" href="{{ '/assets/Files/CV_DoyalSarker.pdf' | relative_url }}" download>
-      Download CV
-    </a>
+
 
     <h3>Index</h3>
     <ul>
