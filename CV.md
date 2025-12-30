@@ -4,9 +4,8 @@ layout: page
 aside: false
 ---
 
-
 <style>
-/* CV two-column layout (sidebar + content) */
+/* Two-column CV layout: sidebar (index) + main content */
 .cv-grid{
   display: grid;
   grid-template-columns: 220px 1fr;
@@ -19,15 +18,12 @@ aside: false
   padding-right: 1rem;
   border-right: 1px solid rgba(0,0,0,0.15);
 }
-.cv-sidebar h2{
-  margin-top: 0;
+.cv-sidebar h3{
+  margin-top: 0.75rem;
 }
 .cv-sidebar ul{
   margin: 0.5rem 0 0;
   padding-left: 1.1rem;
-}
-.cv-content h2:first-of-type{
-  margin-top: 0;
 }
 
 /* Mobile: stack */
@@ -51,18 +47,30 @@ aside: false
       Download CV
     </a>
 
-## Sections
-- [Education](#education)
-- [Experience](#experience)
-- [Publications](#publications)
-- [Skills](#skills)
+    <h3>Index</h3>
+    <ul>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#experience">Experience</a></li>
+      <li><a href="#publications">Publications</a></li>
+      <li><a href="#skills">Skills</a></li>
+    </ul>
   </aside>
 
   <main class="cv-content">
 
-## Education
+### Education {#education}
+#### University of Central Florida — PhD (Aug 2021 – Present)
+- Location: Orlando, Florida, USA  
+- Research: Multi-physics modeling, Dynamics & Control, Offshore Hydrodynamics, FSI
 
 ### University of Central Florida — PhD (Aug 2021 – Present)
 - Location: Orlando, Florida, USA  
 - Research: Multi-physics modeling, Dynamics & Control, Offshore Hydrodynamics, Ocean Wave modeling, Fluid-structure interaction  
 
+<!-- Add these later when you have content -->
+### Experience {#experience}
+### Publications {#publications}
+### Skills {#skills}
+
+  </main>
+</div>
