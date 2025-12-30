@@ -9,11 +9,18 @@ aside: false
 <style>
 /* Two-column CV layout: sidebar (index) + main content */
 .cv-grid{
+  width: 100%;
+  max-width: 100%;
   display: grid;
-  grid-template-columns: 220px 1fr;
+  grid-template-columns: 260px minmax(0, 1fr);
   gap: 2rem;
   align-items: start;
 }
+
+.cv-content{
+  min-width: 0;
+}
+  
 .cv-sidebar{
   position: sticky;
   top: 1.25rem;
