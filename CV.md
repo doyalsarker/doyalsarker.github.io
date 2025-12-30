@@ -58,19 +58,24 @@ aside: false
 
   <main class="cv-content">
 
-### Education {#education}
-#### University of Central Florida — PhD (Aug 2021 – Present)
-- Location: Orlando, Florida, USA  
-- Research: Multi-physics modeling, Dynamics & Control, Offshore Hydrodynamics, FSI
+<h3 id="education">Education</h3>
 
-### University of Central Florida — PhD (Aug 2021 – Present)
-- Location: Orlando, Florida, USA  
-- Research: Multi-physics modeling, Dynamics & Control, Offshore Hydrodynamics, Ocean Wave modeling, Fluid-structure interaction  
+<h4>University of Central Florida — PhD (Aug 2021 – Present)</h4>
+<ul>
+  <li>Location: Orlando, Florida, USA</li>
+  <li>Research: Multi-physics modeling, Dynamics & Control, Offshore Hydrodynamics, FSI</li>
+</ul>
 
-<!-- Add these later when you have content -->
-### Experience {#experience}
-### Publications {#publications}
-### Skills {#skills}
+<h4>University of Central Florida — PhD (Aug 2021 – Present)</h4>
+<ul>
+  <li>Location: Orlando, Florida, USA</li>
+  <li>Research: Multi-physics modeling, Dynamics & Control, Offshore Hydrodynamics, Ocean Wave modeling, Fluid-structure interaction</li>
+</ul>
+
+<h3 id="experience">Experience</h3>
+<h3 id="publications">Publications</h3>
+<h3 id="skills">Skills</h3>
+
 
   </main>
 </div>
