@@ -41,7 +41,7 @@ aside: false
 
 <h3 id="education" class="cv-section">Education</h3>
 
-<h4>University of Central Florida — PhD (Aug 2021 – Present)</h4>
+<h5>University of Central Florida — PhD (Aug 2021 – Present)</h5>
 <ul>
   <li>Location: Orlando, Florida, USA</li>
   <li>Research: Multi-physics modeling, Dynamics & Control, Offshore Hydrodynamics, FSI</li>
