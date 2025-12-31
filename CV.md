@@ -77,7 +77,7 @@ aside: false
 <h3 id="experience" class="cv-section">Experience</h3>
 
 <h6>Graduate Research Assistant &nbsp;&nbsp;&nbsp; (Aug 2021 – Present)</h6>
-<em> <a href="https://mae.ucf.edu/TDas/" target="_blank">Hybrid Sustainable Energy Systems (HySES) Lab </a> </em>
+<h6> <em> <a href="https://mae.ucf.edu/TDas/" target="_blank">Hybrid Sustainable Energy Systems (HySES) Lab </a> </em> </h6>
 <ul style="font-size:0.9rem; line-height:1.4;">
   <li> Developed a control-oriented, reconfigurable, and acausal floating turbine simulator (CRAFTS) utilizing multi-physics modeling to expedite the aero-hydro-servo-elastic simulations for various floating offshore wind        turbine (FOWT) configurations (DOE/ARPA-E funded project).</li> 
   <li> Validated offshore platform dynamics simulated by CRAFTS against NREL’s OpenFAST tool and FOCAL experimental data, achieving a model accuracy of ±15% in key motion responses. </li>
