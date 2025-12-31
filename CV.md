@@ -73,10 +73,11 @@ aside: false
   <li> <b>Research:</b> <em>Numerical analysis, Computational method, CFD, Ship propulsion and resistance, Dynamic fluid-body interaction </em> </li>
   <li> <b>Thesis:</b> <em> Numerical Predictions of Calm Water Resistance of a Modern Surface Combatant </em> </li>
 </ul>
-
-
+<!--Experience section -->
 <h3 id="experience" class="cv-section">Experience</h3>
-<!-- add experience items here -->
+
+<h6>Graduate Research Assistant &nbsp;&nbsp;&nbsp; (Aug 2021 – Present)</h6>
+<a href="" target="_blank">Hybrid Sustainable Energy Systems (HySES) Lab </a>
 
 <h3 id="publications" class="cv-section">Publications</h3>
 <!-- add publications here -->
