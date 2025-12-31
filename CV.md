@@ -32,7 +32,7 @@ aside: false
 .cv-section { margin-top: 2.25rem; }
 
 .cv-section{
-  border-top: 1px solid rgba(0,0,0,0.2);
+  border-top: 2px solid #FF00FF;
   padding-top: 0.75rem;
   margin-top: 2rem;
 }
@@ -46,7 +46,6 @@ aside: false
   <li><a href="#skills">Skills</a></li>
 </ul>
 <!--Education section -->
----------------------------------------------------------------------------------------------------------------------
 <h3 id="education" class="cv-section">Education</h3>
 
 <h6> <a href="https://www.ucf.edu/" target="_blank">University of Central Florida</a> &nbsp;&nbsp;&nbsp; (Aug 2021 – Dec 2026)</h6>
