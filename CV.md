@@ -106,8 +106,24 @@ aside: false
   <li> <em> Developed detailed course materials and lecture notes; designed and evaluated assignments and exams, guided undergraduate projects on ship drawing and scantling using AutoCAD and recommended rule book. </em> </li>
 </ul>
 
-<h3 id="publications" class="cv-section">Publications</h3>
-<!-- add publications here -->
-
 <h3 id="skills" class="cv-section">Skills</h3>
-<!-- add skills here -->
+<h6> Technical Expertise </h6>
+<ul style="font-size:0.9rem; line-height:1.4;">
+  <li> <em> Multi-body dynamics modeling and simulation </em> </li>
+  <li> <em> Offshore hydrodynamics and wave modeling </em> </li>
+  <li> <em> Aero-hydro-elasto mododeling of flaoting wind turbine </em> </li>
+  <li> <em> Multi-degree of freedom system modeling </em> </li>
+  <li> <em> Structural vibration, modal analysis and control </em> </li>
+  <li> <em> Computational fluid dynamics (CFD) </em> </li>
+  <li> <em> Finite element modeling (FEA) </em> </li>
+</ul>
+<h6> Software </h6>
+<ul style="font-size:0.9rem; line-height:1.4;">
+  <li> <b>Modeling & Simulation:</b> <em> Modelica/Dymola, SIMULINL, ABAQUS, STAR_CCM+, OpenFAST, OrcaFlex </em> </li>
+  <li> <b>Programming:</b> <em> MATLAB, Python, Modelica </em> </li>
+  <li> <b>Design & CAD Tools:</b> <em> AutoCAD, Rhinoceros (Rhino3D), MaxSurf, HydroStar </em> </li>
+  <li> <b>Documentation & Processing:</b> <em> Latex, MS Office, Origin (Graphing) </em> </li>
+  <li> <b>Optimization & Control:</b> <em> Genetic Algorithm (GA), Multi-objective Optimization, LQR and PID controls, Tuned mass damper (TMD), Mooring Actuation </em> </li>
+</ul>
+
+
