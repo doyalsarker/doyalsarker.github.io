@@ -79,10 +79,31 @@ aside: false
 <h6>Graduate Research Assistant &nbsp;&nbsp;&nbsp; (Aug 2021 – Present)</h6>
 <h6> <em> <a href="https://mae.ucf.edu/TDas/" target="_blank">Hybrid Sustainable Energy Systems (HySES) Lab </a> </em> </h6>
 <ul style="font-size:0.9rem; line-height:1.4;">
-  <li> <em>Developed a control-oriented, reconfigurable, and acausal floating turbine simulator (CRAFTS) utilizing multi-physics modeling to expedite the aero-hydro-servo-elastic simulations for various floating offshore wind turbine (FOWT) configurations (DOE/ARPA-E funded project). </em> </li> 
-  <li> Validated offshore platform dynamics simulated by CRAFTS against NREL’s OpenFAST tool and FOCAL experimental data, achieving a model accuracy of ±15% in key motion responses. </li>
-  <li> Enhanced computational efficiency of hydro-elastic simulation by approximately 8 times compared to OpenFAST tool through the implementation of Strip-theory based hydrodynamic model for offshore platforms.</em> </li>
-  <li> Integrated a MATLAB/Simulink Genetic Algorithm (GA) optimization toolbox with CRAFTS to automate the calibration of hydrodynamic coefficient, significantly reducing manual tuning and weighting efforts. </li>
+  <li> <em>Developed a control-oriented, reconfigurable, and acausal floating turbine simulator (CRAFTS) utilizing multi-physics modeling to expedite the aero-hydro-servo-elastic simulations for various floating offshore wind turbine (FOWT) configurations <b>(DOE/ARPA-E funded project)</b>. </em> </li> 
+  <li> <em> Validated offshore platform dynamics simulated by CRAFTS against NREL’s OpenFAST tool and FOCAL experimental data, achieving a model accuracy of ±15% in key motion responses. </em> </li>
+  <li> <em> Enhanced computational efficiency of hydro-elastic simulation by approximately 8 times compared to OpenFAST tool through the implementation of Strip-theory based hydrodynamic model for offshore platforms.</em> </li>
+  <li> <em> Integrated a MATLAB/Simulink Genetic Algorithm (GA) optimization toolbox with CRAFTS to automate the calibration of hydrodynamic coefficient, significantly reducing manual tuning and weighting efforts.</em> </li>
+</ul>
+
+<h6>Graduate Teaching Assistant &nbsp;&nbsp;&nbsp; (Aug 2023 – Dec 2023)</h6>
+<h6> <em> <a href="https://mae.ucf.edu/" target="_blank">Dept. of Mechanical & Aerospace Engineering </a> </em> </h6>
+<ul style="font-size:0.9rem; line-height:1.4;">
+  <li> <em>Supported <b>Intermediate System Dynamics & Control</b> coursework by guiding students in problem solving techniques and evaluating exams and assignments using established grading criteria. </em> </li> 
+</ul>
+
+<h6>Assistant Engineer (Mechanical) &nbsp;&nbsp;&nbsp; (Sept 2019 – July 2021)</h6>
+<h6> <em> <a href="https://biwta.gov.bd/" target="_blank">Bangladesh Inland Water Transport Authority (BIWTA) </a> </em> </h6>
+<ul style="font-size:0.9rem; line-height:1.4;">
+  <li> <em>Directed dredging maintenance operations by coordinating the mobilization and operation of dredger vessels, developed technical specification and annual procurement plan to ensure uninterrupted dredging activities.</em>   </li> 
+  <li> <em> Conducted through inspections of repair and maintenance for dredging units, focusing on marine propulsion, hydraulic, and mechanical systems, as well as engine units of crane boats. </em> </li>
+  <li> <em> Designed a comprehensive 2D layout plan for the strategic arrangement of over 50 vessels, including the cutter suction dredgers and support vessels such as hydrographic survey units, at a newly established dredger base.</em> </li>
+</ul>
+
+<h6>Adjunct Faculty &nbsp;&nbsp;&nbsp; (Jan 2018 – Jan 2020)</h6>
+<h6> <em> <a href="https://su.edu.bd/" target="_blank">Sonargaon University </a> </em> </h6>
+<ul style="font-size:0.9rem; line-height:1.4;">
+  <li> <em>Instructed undergraduate courses in Naval Architecture, Marine Hydrodynamics, Dynamics of Marine Vehicles and Structural Mechanics, delivering comprehensive lectures, tutorials, and practical sessions.</em> </li> 
+  <li> <em> Developed detailed course materials and lecture notes; designed and evaluated assignments and exams, guided undergraduate projects on ship drawing and scantling using AutoCAD and recommended rule book. </em> </li>
 </ul>
 
 <h3 id="publications" class="cv-section">Publications</h3>
