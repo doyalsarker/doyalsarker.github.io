@@ -49,7 +49,6 @@ aside: false
   <li> <b>Research:</b> <em>Multi-physics modeling, Dynamics & Control, Offshore Hydrodynamics, Ocean Wave modeling, Fluid-structure Interaction</em> </li>
   <li> <b>Dissertation:</b> <em>Yet to be finalized</em> </li>
 </ul>
-
 <h6> <a href="https://www.ucf.edu/" target="_blank">University of Central Florida</a> &nbsp;&nbsp;&nbsp; (Aug 2021 – April 2024)</h6>
 <ul style="font-size:0.9rem; line-height:1.4;">
   <li> <b>Degree:</b> <em>MS in Mechanical Engineering</em> </li> 
@@ -57,7 +56,6 @@ aside: false
   <li> <b>Research:</b> <em>Multi-physics modeling and simulation, Offshore Hydrodynamics, Vibration Control, Tuned Mass Damper (TMD), Wave Kinematics</em> </li>
   <li> <b>Thesis:</b> <em> Acausal Modeling and Validation of Platform Hydrodynamics of a Floating Offshore Wind Turbine <a href="https://stars.library.ucf.edu/etd2023/457/" target="_blank"> (See here)</a> </em> </li>
 </ul>
-
 <h6> <a href="https://www.buet.ac.bd/web/#/" target="_blank">Bangladesh University of Engineering and Technology</a> &nbsp;&nbsp;&nbsp; (Oct 2017 – June 2021)</h6>
 <ul style="font-size:0.9rem; line-height:1.4;">
   <li> <b>Degree:</b> <em>MS in Naval architecture and Marine Engineering</em> </li> 
