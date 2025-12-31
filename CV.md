@@ -30,6 +30,12 @@ aside: false
 
 /* Optional: tighten spacing a bit */
 .cv-section { margin-top: 2.25rem; }
+
+.cv-section{
+  border-top: 1px solid rgba(0,0,0,0.2);
+  padding-top: 0.75rem;
+  margin-top: 2rem;
+}
   
 </style>
 
