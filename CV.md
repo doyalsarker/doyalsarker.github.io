@@ -115,7 +115,7 @@ aside: false
   <li> <em> Multi-degree of freedom system modeling </em> </li>
   <li> <em> Structural vibration, modal analysis and control </em> </li>
   <li> <em> Computational fluid dynamics (CFD) </em> </li>
-  <li> <em> Finite element modeling (FEA) </em> </li>
+  <li> <em> Finite element modeling (FEM) </em> </li>
 </ul>
 <h6> Software </h6>
 <ul style="font-size:0.9rem; line-height:1.4;">
