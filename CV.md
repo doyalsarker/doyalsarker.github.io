@@ -119,7 +119,7 @@ aside: false
 </ul>
 <h6> Software </h6>
 <ul style="font-size:0.9rem; line-height:1.4;">
-  <li> <b>Modeling & Simulation:</b> <em> Modelica/Dymola, SIMULINL, ABAQUS, STAR_CCM+, OpenFAST, OrcaFlex </em> </li>
+  <li> <b>Modeling & Simulation:</b> <em> Modelica/Dymola, SIMULINK, ABAQUS, STAR-CCM+, OpenFAST, OrcaFlex </em> </li>
   <li> <b>Programming:</b> <em> MATLAB, Python, Modelica </em> </li>
   <li> <b>Design & CAD Tools:</b> <em> AutoCAD, Rhinoceros (Rhino3D), MaxSurf, HydroStar </em> </li>
   <li> <b>Documentation & Processing:</b> <em> Latex, MS Office, Origin (Graphing) </em> </li>
