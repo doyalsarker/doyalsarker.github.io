@@ -40,6 +40,7 @@ aside: false
   <li><a href="#skills">Skills</a></li>
 </ul>
 <!--Education section -->
+---------------------------------------------------------------------------------------------------------------------
 <h3 id="education" class="cv-section">Education</h3>
 
 <h6> <a href="https://www.ucf.edu/" target="_blank">University of Central Florida</a> &nbsp;&nbsp;&nbsp; (Aug 2021 – Dec 2026)</h6>
@@ -111,7 +112,7 @@ aside: false
 <ul style="font-size:0.9rem; line-height:1.4;">
   <li> <em> Multi-body dynamics modeling and simulation </em> </li>
   <li> <em> Offshore hydrodynamics and wave modeling </em> </li>
-  <li> <em> Aero-hydro-elasto mododeling of flaoting wind turbine </em> </li>
+  <li> <em> Aero-hydro-elasto mododeling of floating wind turbine </em> </li>
   <li> <em> Multi-degree of freedom system modeling </em> </li>
   <li> <em> Structural vibration, modal analysis and control </em> </li>
   <li> <em> Computational fluid dynamics (CFD) </em> </li>
