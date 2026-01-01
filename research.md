@@ -66,4 +66,14 @@ aside: false
     <img src="{{ '/assets/Images/hydrodynamics.png' | relative_url }}" alt="Hydrodynamics Framework">
   </a>
 
+  <a class="research-tile" href="https://www.sciencedirect.com/science/article/pii/S0029801825025259">
+    <div class="tile-title">Optimization Workflow</div>
+    <img src="{{ '/assets/Images/GAHydro.png' | relative_url }}" alt="Optimization Workflow">
+  </a>
+
+  <a class="research-tile" href="https://www.sciencedirect.com/science/article/pii/S0029801825025259">
+    <div class="tile-title">Fixed Cylinder</div>
+    <img src="{{ '/assets/Images/fixedcylinder.png' | relative_url }}" alt="Fixed Cylinder">
+  </a>
+
 </div>
