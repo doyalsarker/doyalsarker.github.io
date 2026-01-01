@@ -60,4 +60,9 @@ aside: false
     <img src="{{ '/assets/Images/fowt.png' | relative_url }}" alt="FOWT">
   </a>
 
+  <a class="research-tile" href="{{ '/projects/' | relative_url }}">
+    <div class="tile-title">Hydrodynamics Framework</div>
+    <img src="{{ '/assets/Images/hydrodynamics.png' | relative_url }}" alt="FOWT">
+  </a>
+
 </div>
