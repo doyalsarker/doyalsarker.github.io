@@ -49,6 +49,12 @@ aside: false
   .research-tile img{ width: 100%; height: auto; }
 }
 
+.section-divider{
+  border-top: 2px solid #FF00FF;
+  padding-top: 0.75rem;
+  margin-top: 2rem;
+}
+
 </style>
 
 <!-- Research Description-->
