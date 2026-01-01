@@ -29,7 +29,7 @@ aside: false
 }
 
 .research-tile img{
-  width: 320px;
+  width: 400px;
   max-width: 100%;
   height: 220px;          /* keep uniform tile height */
   object-fit: contain;    /* ✅ no cropping */
