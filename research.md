@@ -29,10 +29,11 @@ aside: false
 }
 
 .research-tile img{
-  width: 260px;            /* control image size */
+  width: 320px;            /* control image size */
   max-width: 100%;
   height: 200px;           /* keep tiles uniform */
-  object-fit: cover;
+  object-fit: contain;
+  background: #fff;
   display: inline-block;
 }
 
