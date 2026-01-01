@@ -56,14 +56,14 @@ aside: false
 <!-- Research Image Gallery-->
 <div class="research-gallery">
 
-  <a class="research-tile" href="{{ '/projects/' | relative_url }}">
+  <a class="research-tile" href="https://ieeexplore.ieee.org/document/10678762">
     <div class="tile-title">FOWT</div>
     <img src="{{ '/assets/Images/fowt.png' | relative_url }}" alt="FOWT">
   </a>
 
-  <a class="research-tile" href="{{ '/projects/' | relative_url }}">
+  <a class="research-tile" href="https://ieeexplore.ieee.org/document/10678762">
     <div class="tile-title">Hydrodynamics Framework</div>
-    <img src="{{ '/assets/Images/hydrodynamics.png' | relative_url }}" alt="FOWT">
+    <img src="{{ '/assets/Images/hydrodynamics.png' | relative_url }}" alt="Hydrodynamics Framework">
   </a>
 
 </div>
