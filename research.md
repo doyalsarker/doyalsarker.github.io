@@ -57,8 +57,8 @@ aside: false
 <div class="research-gallery">
 
   <a class="research-tile" href="https://ieeexplore.ieee.org/document/10678762">
-    <div class="tile-title">FOWT</div>
-    <img src="{{ '/assets/Images/fowt.png' | relative_url }}" alt="FOWT">
+    <div class="tile-title">FOWT Dynamics</div>
+    <img src="{{ '/assets/Images/fowt.png' | relative_url }}" alt="FOWT Dynamics">
   </a>
 
   <a class="research-tile" href="https://ieeexplore.ieee.org/document/10678762">
@@ -67,13 +67,13 @@ aside: false
   </a>
 
   <a class="research-tile" href="https://www.sciencedirect.com/science/article/pii/S0029801825025259">
-    <div class="tile-title">Optimization Workflow</div>
-    <img src="{{ '/assets/Images/GAHydro.png' | relative_url }}" alt="Optimization Workflow">
+    <div class="tile-title">Parameter Optimization Workflow</div>
+    <img src="{{ '/assets/Images/GAHydro.png' | relative_url }}" alt="Parameter Optimization Workflow">
   </a>
 
   <a class="research-tile" href="https://www.sciencedirect.com/science/article/pii/S0029801825025259">
-    <div class="tile-title">Fixed Cylinder</div>
-    <img src="{{ '/assets/Images/fixedcylinder.png' | relative_url }}" alt="Fixed Cylinder">
+    <div class="tile-title">Wave-Structure</div>
+    <img src="{{ '/assets/Images/fixedcylinder.png' | relative_url }}" alt="Wave-Structure">
   </a>
 
 </div>
