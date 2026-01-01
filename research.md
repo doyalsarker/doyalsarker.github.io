@@ -6,7 +6,7 @@ aside: false
 <style>
 .research-body {
   font-size: 0.95rem;   /* try 0.9rem if you want smaller */
-  line-height: 1.6;
+  line-height: 1.0;
 }
 
 </style>
