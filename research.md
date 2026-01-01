@@ -16,10 +16,12 @@ aside: false
   margin-top: 1.5rem;
 }
 
-.research-tile{
-  text-decoration: none;
-  color: inherit;
-  text-align: center;
+.img-box{
+  height: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
 }
 
 .tile-title{
@@ -28,13 +30,12 @@ aside: false
   margin-bottom: 0.9rem;
 }
 
-.research-tile img{
-  width: 320px;            /* control image size */
+.img-box img{
+  max-height: 100%;
   max-width: 100%;
-  height: 200px;           /* keep tiles uniform */
+  height: auto;
+  width: auto;
   object-fit: contain;
-  background: #fff;
-  display: inline-block;
 }
 
 /* Responsive: 2 columns on tablets, 1 column on phones */
@@ -56,12 +57,12 @@ aside: false
 <!-- Research Image Gallery-->
 <div class="research-gallery">
 
-  <a class="research-tile" href="{{ '/projects/' | relative_url }}">
+  <a class="img-box" href="{{ '/projects/' | relative_url }}">
     <div class="tile-title">FOWT</div>
     <img src="{{ '/assets/Images/fowt.png' | relative_url }}" alt="FOWT">
   </a>
 
-  <a class="research-tile" href="{{ '/projects/' | relative_url }}">
+  <a class="img-box" href="{{ '/projects/' | relative_url }}">
     <div class="tile-title">Hydrodynamics Framework</div>
     <img src="{{ '/assets/Images/hydrodynamics.png' | relative_url }}" alt="FOWT">
   </a>
