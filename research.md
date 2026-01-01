@@ -1,6 +1,7 @@
 ---
 title: Research
+layout: page
 aside: false
 ---
 
-My research focuces on the modeling, simulation, and validation of numerous dynamical systems applied to the sustainable energy systems. Currently, I am working on the developement of an acausal modeling tool that can rapidly simulate aero-hydro coupled dydnamics of floating offshore wind turbine (FOWT).
+My research focuses on the modeling, simulation, and validation of dynamical systems for sustainable energy applications. I have been developing an acausal modeling and simulation framework for rapid aero–hydro coupled dynamic analysis of floating offshore wind turbines (FOWTs). My current research emphasizes structural fatigue load reduction using semi-active tuned mass dampers (TMDs) and the impact of wind–wave misalignment on controller performance.
