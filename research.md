@@ -77,3 +77,5 @@ aside: false
   </a>
 
 </div>
+
+<h3>Publications</h3>
