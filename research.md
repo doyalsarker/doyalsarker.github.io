@@ -46,6 +46,12 @@ aside: false
   .research-tile img{ width: 100%; height: auto; }
 }
 
+.research-section{
+  border-top: 2px solid #FF00FF;
+  padding-top: 0.75rem;
+  margin-top: 2rem;
+}
+
 </style>
 
 <!-- Research Description-->
@@ -78,4 +84,4 @@ aside: false
 
 </div>
 
-<h6>Publications</h6>
+<h6 class="research-section">Publications</h6>
