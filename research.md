@@ -4,8 +4,6 @@ layout: page
 aside: false
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
 <style>
 .research-body {
   font-size: 1.00rem;   /* try 0.9rem if you want smaller */
