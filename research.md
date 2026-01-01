@@ -78,4 +78,4 @@ aside: false
 
 </div>
 
-<h3>Publications</h3>
+<h6>Publications</h6>
