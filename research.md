@@ -58,7 +58,7 @@ aside: false
 <!-- Research Description-->
 <div class="research-body">
   <p> My research focuses on the modeling, simulation, and validation of dynamical systems for sustainable energy applications. I have been developing an acausal modeling and simulation framework for rapid aero–hydro coupled dynamic analysis of floating offshore wind turbines (FOWTs). My current research emphasizes structural fatigue load reduction using semi-active tuned mass dampers (TMDs) and the impact of wind–wave misalignment on controller performance. </p>
-</div>
+
 
 <!-- Research Image Gallery-->
 <div class="research-gallery">
@@ -86,3 +86,9 @@ aside: false
 </div>
 
 <h6 class="section-divider">Publications</h6>
+For an updated list of publications, please visit my <a href="https://scholar.google.com/citations?user=-waJLfwAAAAJ&hl=en" target="_blank"> Google Scholar </a> and <a href="https://www.researchgate.net/profile/Doyal-Kumar-Sarker?ev=hdr_xprf" target="_blank"> ResearchGate </a> profiles.
+
+
+
+
+</div>
