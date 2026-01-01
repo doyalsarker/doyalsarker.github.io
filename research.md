@@ -16,12 +16,10 @@ aside: false
   margin-top: 1.5rem;
 }
 
-.img-box{
-  height: 220px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: #fff;
+.research-tile{
+  text-decoration: none;
+  color: inherit;
+  text-align: center;
 }
 
 .tile-title{
@@ -30,12 +28,13 @@ aside: false
   margin-bottom: 0.9rem;
 }
 
-.img-box img{
-  max-height: 100%;
+.research-tile img{
+  width: 320px;
   max-width: 100%;
-  height: auto;
-  width: auto;
-  object-fit: contain;
+  height: 220px;          /* keep uniform tile height */
+  object-fit: contain;    /* ✅ no cropping */
+  background: #fff;       /* optional: fill empty space */
+  display: inline-block;
 }
 
 /* Responsive: 2 columns on tablets, 1 column on phones */
@@ -57,12 +56,12 @@ aside: false
 <!-- Research Image Gallery-->
 <div class="research-gallery">
 
-  <a class="img-box" href="{{ '/projects/' | relative_url }}">
+  <a class="research-tile" href="{{ '/projects/' | relative_url }}">
     <div class="tile-title">FOWT</div>
     <img src="{{ '/assets/Images/fowt.png' | relative_url }}" alt="FOWT">
   </a>
 
-  <a class="img-box" href="{{ '/projects/' | relative_url }}">
+  <a class="research-tile" href="{{ '/projects/' | relative_url }}">
     <div class="tile-title">Hydrodynamics Framework</div>
     <img src="{{ '/assets/Images/hydrodynamics.png' | relative_url }}" alt="FOWT">
   </a>
