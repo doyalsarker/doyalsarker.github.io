@@ -47,17 +47,17 @@ aside: false
 
 </style>
 
-<!-- Research Description--!>
+<!-- Research Description-->
 <div class="research-body">
   <p> My research focuses on the modeling, simulation, and validation of dynamical systems for sustainable energy applications. I have been developing an acausal modeling and simulation framework for rapid aero–hydro coupled dynamic analysis of floating offshore wind turbines (FOWTs). My current research emphasizes structural fatigue load reduction using semi-active tuned mass dampers (TMDs) and the impact of wind–wave misalignment on controller performance. </p>
 </div>
 
-<!-- Research Image Gallery--!>
+<!-- Research Image Gallery-->
 <div class="research-gallery">
 
   <a class="research-tile" href="{{ '/projects/' | relative_url }}">
-    <div class="tile-title">Acausal FOWT Modeling</div>
-    <img src="{{ '/assets/Images/fowt.png' | relative_url }}" alt="Acausal FOWT Modeling">
+    <div class="tile-title">FOWT</div>
+    <img src="{{ '/assets/Images/fowt.png' | relative_url }}" alt="FOWT">
   </a>
 
 </div>
