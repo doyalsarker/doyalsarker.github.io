@@ -95,7 +95,7 @@ aside: false
 <details class="pub-drop">
   <summary>Journal Articles</summary>
   <ul class="pub-list">
-    <li><b>Author A</b>, Author B. “Paper title…”. <em>Journal Name</em>, 2025.</li>
+    <li><b>Sarker, D.</b>, Ngo, T., & Das, T. (2025). Enhancement of hydrodynamics modeling for floating offshore wind turbines using multi-objective genetic algorithm. <em>Ocean Engineering</em>, 342, 122842. [https://doi.org/10.1016/j.oceaneng.2025.122842](https://doi.org/10.1016/j.oceaneng.2025.122842)</li>
     <li><b>Author A</b>, Author C. “Paper title…”. <em>Journal Name</em>, 2024.</li>
   </ul>
 </details>
