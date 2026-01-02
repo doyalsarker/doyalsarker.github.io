@@ -147,7 +147,7 @@ html{
 </div>
 
 <div class="sec-layout">
-  <main class="sec-content">
+  <div class="sec-content">
     
 <h6>Journal Articles</h6>
   <ul class="pub-list">
@@ -205,9 +205,9 @@ html{
 
    </ul>
 
-   </main>
+   </div>
 
-  <aside class="pubs-sidebar" aria-label="Publications index">
+  <div class="pubs-sidebar">
     <div class="pubs-sidebar-box">
       <div class="pubs-sidebar-title">Index</div>
       <nav>
@@ -217,7 +217,7 @@ html{
         <a href="#posters">Poster&Presentation </a>
       </nav>
     </div>
-  </aside>
+  </div>
 
 </div>
 
