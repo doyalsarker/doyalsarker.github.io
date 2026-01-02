@@ -142,7 +142,7 @@ aside: false
 <h6>Poster & Presentation</h6>
    <ul class="pub-list">
      
-   <li>Development of an AI-Enabled Predictive Hydrodynamics Model for Floating Offshore Wind Turbines (FOWT). <em>Student Scholar Symposium at Student Research Week 2025, University of Central Florida</em> <a href="https://researchweek.ucf.edu/2025-student-scholar-symposium-winners/" target="_blank"> See Winner List </a> | <a href="{{ '/assets/Files/poster.ppt' | relative_url }}" download> Download Poster </a></li>
+   <li>Development of an AI-Enabled Predictive Hydrodynamics Model for Floating Offshore Wind Turbines (FOWT). <em>Student Scholar Symposium at Student Research Week 2025, University of Central Florida</em> <a href="https://researchweek.ucf.edu/2025-student-scholar-symposium-winners/" target="_blank"> See Winner List </a> | <a href="{{ '/assets/Files/SSS2025_Sarker.pptx' | relative_url }}" download> Download Poster </a></li>
 
    </ul>
 
