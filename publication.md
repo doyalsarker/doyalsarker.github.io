@@ -88,6 +88,56 @@ aside: false
   margin-bottom: 0.5rem;   /* controls gap between items */
 }
 
+.pubs-layout{
+  display: grid;
+  grid-template-columns: 1fr 260px;
+  gap: 24px;
+  align-items: start;
+}
+
+.pubs-sidebar{
+  position: sticky;
+  top: 90px; /* adjust if you have a fixed navbar */
+}
+
+.pubs-sidebar-box{
+  border: 1px solid rgba(0,0,0,0.12);
+  border-radius: 12px;
+  padding: 14px 14px;
+  background: #fff;
+}
+
+.pubs-sidebar-title{
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.pubs-sidebar nav a{
+  display: block;
+  padding: 8px 10px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.pubs-sidebar nav a:hover{
+  background: rgba(0,0,0,0.06);
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+/* Mobile: sidebar goes below content */
+@media (max-width: 900px){
+  .pubs-layout{
+    grid-template-columns: 1fr;
+  }
+  .pubs-sidebar{
+    position: static;
+  }
+}
+
+
 </style>
 
 <div class="section-body">
@@ -96,6 +146,9 @@ aside: false
 </p>
 </div>
 
+<div class="sec-layout">
+  <main class="sec-content">
+    
 <h6>Journal Articles</h6>
   <ul class="pub-list">
     
@@ -151,4 +204,22 @@ aside: false
     <li> 3rd Modeling, Estimation and Control Conference (MECC 2023), Lake Tahoe, NV, USA. <a href="{{ '/assets/Files/MECC2023_Hydro.pptx' | relative_url }}" download> Download Presentation </a> </li>
 
    </ul>
+
+   </main>
+
+  <aside class="pubs-sidebar" aria-label="Publications index">
+    <div class="pubs-sidebar-box">
+      <div class="pubs-sidebar-title">Index</div>
+      <nav>
+        <a href="#journal-articles">Journal Articles</a>
+        <a href="#conference-proceedings">Conference Proceedings</a>
+        <a href="#theses">Theses</a>
+        <a href="#posters">Poster&Presentation </a>
+      </nav>
+    </div>
+  </aside>
+
+</div>
+
+   
 
