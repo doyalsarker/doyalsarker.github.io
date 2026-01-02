@@ -80,7 +80,7 @@ aside: false
 
 .pub-list{
   margin: 0.7rem 0 0.2rem 1.1rem;
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   line-height: 1.5;
 }
 
@@ -95,7 +95,7 @@ aside: false
 <details class="pub-drop">
   <summary>Journal Articles</summary>
   <ul class="pub-list">
-    <li><b>Sarker, D.</b>, Ngo, T., & Das, T. (2025). Enhancement of hydrodynamics modeling for floating offshore wind turbines using multi-objective genetic algorithm. <em>Ocean Engineering</em>, 342, 122842. [https://doi.org/10.1016/j.oceaneng.2025.122842](https://doi.org/10.1016/j.oceaneng.2025.122842)</li>
+    <li><b>Sarker, D.</b>, Ngo, T., & Das, T. (2025). Enhancement of hydrodynamics modeling for floating offshore wind turbines using multi-objective genetic algorithm. <em>Ocean Engineering</em>, 342, 122842. <a href="https://doi.org/10.1016/j.oceaneng.2025.122842" target="_blank"> doi.org/10.1016/j.oceaneng.2025.122842 </a> </li>
     <li><b>Author A</b>, Author C. “Paper title…”. <em>Journal Name</em>, 2024.</li>
   </ul>
 </details>
