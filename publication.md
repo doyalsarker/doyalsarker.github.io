@@ -52,6 +52,24 @@ aside: false
   margin-top: 2rem;
 }
 
+.sec-index {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.25rem;
+  list-style: none;
+  padding-left: 0;
+  margin: 1.25rem 0 2rem 0;
+}
+.sec-index li { margin: 0; }
+.sec-index a {
+  text-decoration: none;
+  padding: 0.2rem 0.1rem;
+  border-bottom: 2px solid currentColor;
+}
+.sec-index a:hover {
+  border-bottom-style: dotted;
+}
+
 .pub-drop{
   border: 1px solid rgba(0,0,0,0.15);
   border-radius: 10px;
@@ -88,61 +106,6 @@ aside: false
   margin-bottom: 0.5rem;   /* controls gap between items */
 }
 
-.pubs-layout{
-  display: flex;
-  gap: 28px;
-  align-items: flex-start;
-}
-
-.pubs-content{
-  flex: 1;
-  min-width: 0;
-}
-
-.pubs-sidebar{
-  width: 320px;
-  position: sticky;
-  top: 90px;
-}
-
-.pubs-sidebar-box{
-  border: 1px solid rgba(0,0,0,0.12);
-  border-radius: 12px;
-  padding: 14px 14px;
-  background: #fff;
-}
-
-.pubs-sidebar-title{
-  font-weight: 700;
-  margin-bottom: 10px;
-}
-
-.pubs-sidebar nav a{
-  display: block;
-  padding: 8px 10px;
-  border-radius: 8px;
-  text-decoration: none;
-}
-
-.pubs-sidebar nav a:hover{
-  background: rgba(0,0,0,0.06);
-}
-
-html{
-  scroll-behavior: smooth;
-}
-
-/* Mobile: sidebar goes below content */
-@media (max-width: 900px){
-  .pubs-layout{
-    grid-template-columns: 1fr;
-  }
-  .pubs-sidebar{
-    position: static;
-  }
-}
-
-
 </style>
 
 <div class="section-body">
@@ -151,10 +114,15 @@ html{
 </p>
 </div>
 
-<div class="sec-layout">
-  <div class="sec-content">
+<!--Indexing the publication section -->
+<ul class="sec-index">
+  <li><a href="#journal">Journal Articles</a></li>
+  <li><a href="#conference">Conference Proceedings</a></li>
+  <li><a href="#these">Theses</a></li>
+  <li><a href="#poster">Poster &amp; Presentation</a></li>
+</ul>
     
-<h6>Journal Articles</h6>
+<h6 id="journal">Journal Articles</h6>
   <ul class="pub-list">
     
     <li><b>Sarker, D.</b>, Ngo, T., & Das, T. (2025). Enhancement of hydrodynamics modeling for floating offshore wind turbines using multi-objective genetic algorithm. <em>Ocean Engineering</em>, 342, 122842. <a       href="https://doi.org/10.1016/j.oceaneng.2025.122842" target="_blank"> doi.org/10.1016/j.oceaneng.2025.122842 </a> </li>  
@@ -210,19 +178,7 @@ html{
 
    </ul>
 
-   </div>
 
-  <div class="pubs-sidebar">
-    <div class="pubs-sidebar-box">
-      <div class="pubs-sidebar-title">Index</div>
-      <nav>
-        <a href="#journal-articles">Journal Articles</a>
-        <a href="#conference-proceedings">Conference Proceedings</a>
-        <a href="#theses">Theses</a>
-        <a href="#posters">Poster&Presentation </a>
-      </nav>
-    </div>
-  </div>
 
 </div>
 
