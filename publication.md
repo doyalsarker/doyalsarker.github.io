@@ -1,4 +1,4 @@
-m---
+---
 title: Publications
 layout: page
 aside: false
