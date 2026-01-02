@@ -78,11 +78,12 @@ aside: false
   content: "▾ ";
 }
 
-.page__content .pub-list{
+.pub-list{
+  margin: 0.7rem 0 0.2rem 1.1rem;
   font-size: 0.8rem;
 }
 
-.page__content .pub-list li{
+.pub-list li{
   line-height: 1.25;        /* controls line spacing */
   margin-bottom: 0.2rem;   /* controls gap between items */
 }
