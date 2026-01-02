@@ -81,7 +81,7 @@ aside: false
 .pub-list{
   margin: 0.7rem 0 0.2rem 1.1rem;
   font-size: 0.85rem;
-  line-height: 0.1rem;
+  line-height: 0.5;
 }
 
 </style>
