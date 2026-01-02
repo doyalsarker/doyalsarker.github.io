@@ -89,15 +89,20 @@ aside: false
 }
 
 .pubs-layout{
-  display: grid;
-  grid-template-columns: 1fr 260px;
-  gap: 24px;
-  align-items: start;
+  display: flex;
+  gap: 28px;
+  align-items: flex-start;
+}
+
+.pubs-content{
+  flex: 1;
+  min-width: 0;
 }
 
 .pubs-sidebar{
+  width: 320px;
   position: sticky;
-  top: 90px; /* adjust if you have a fixed navbar */
+  top: 90px;
 }
 
 .pubs-sidebar-box{
