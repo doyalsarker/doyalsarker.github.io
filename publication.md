@@ -52,6 +52,50 @@ aside: false
   margin-top: 2rem;
 }
 
+.pub-drop{
+  border: 1px solid rgba(0,0,0,0.15);
+  border-radius: 10px;
+  padding: 0.6rem 0.9rem;
+  margin: 0.8rem 0;
+  background: #fff;
+}
+
+.pub-drop summary{
+  cursor: pointer;
+  font-weight: 700;
+  list-style: none;
+}
+
+.pub-drop summary::-webkit-details-marker{
+  display: none;
+}
+
+.pub-drop summary:before{
+  content: "▸ ";
+}
+
+.pub-drop[open] summary:before{
+  content: "▾ ";
+}
+
+.pub-list{
+  margin: 0.7rem 0 0.2rem 1.1rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
 </style>
 
-For an updated list of publications, please visit my <a href="https://scholar.google.com/citations?user=-waJLfwAAAAJ&hl=en" target="_blank"> Google Scholar </a> and <a href="https://www.researchgate.net/profile/Doyal-Kumar-Sarker?ev=hdr_xprf" target="_blank"> ResearchGate</a>  profiles.
+<div class="section-body">
+<p>
+  For an updated list of publications, please visit my <a href="https://scholar.google.com/citations?user=-waJLfwAAAAJ&hl=en" target="_blank"> Google Scholar</a> and <a href="https://www.researchgate.net/profile/Doyal-Kumar-Sarker?ev=hdr_xprf" target="_blank"> ResearchGate</a> profiles.
+</p>
+</div>
+
+<details class="pub-drop">
+  <summary>Journal Articles</summary>
+  <ul class="pub-list">
+    <li><b>Author A</b>, Author B. “Paper title…”. <em>Journal Name</em>, 2025.</li>
+    <li><b>Author A</b>, Author C. “Paper title…”. <em>Journal Name</em>, 2024.</li>
+  </ul>
+</details>
