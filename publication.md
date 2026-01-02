@@ -139,3 +139,7 @@ aside: false
     <li><b>Sarker, D.K.</b> (2017). Numerical Predictions of Calm Water Resistance of a Modern Surface Combatant. <em>BS Thesis, Bangladsh University of Engineering and technology</em>. </li>
   </ul>
 
+<h6>Poster & Presentation</h6>
+
+   <li>Development of an AI-Enabled Predictive Hydrodynamics Model for Floating Offshore Wind Turbines (FOWT). <em>Student Scholar Symposium at Student Research Week 2025, University of Central Florida</em> <a href="https://researchweek.ucf.edu/2025-student-scholar-symposium-winners/" target="_blank"> See Winner List | </li>
+
