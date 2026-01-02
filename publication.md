@@ -129,3 +129,13 @@ aside: false
     <li><b>Sarker, D.K.</b>, Ahsanullah, M.S., & Rahaman, M. M. (2017). Numerical Predictions of Calm Water Resistance of a Modern Surface Combatant. <em>International Conference on Mechanical, Industrial and Materials Engineering 2017</em>. <a href="https://www.researchgate.net/profile/Doyal-Kumar-Sarker/publication/372622848_Numerical_Predictions_of_Calm_Water_Resistance_of_a_Modern_Surface_Combatant/links/64c04a11b9ed6874a544f168/Numerical-Predictions-of-Calm-Water-Resistance-of-a-Modern-Surface-Combatant.pdf"> Link </a></li>
   </ul>
 
+<h6>Theses</h6>
+  <ul class="pub-list">
+
+    <li><b>Sarker, D.K.</b> (2024). Acausal Modeling and Validation of Platform Hydrodynamics of a Floating Offshore Wind Turbine. <em>MS Thesis, University of Central Florida</em>. <a href="https://stars.library.ucf.edu/etd2023/457/"> Link</a> </li>
+
+    <li><b>Sarker, D.K.</b> (2021). Numerical analysis of turbulent flow around the ship hulls using star-CCM+. <em>MS Thesis, Bangladsh University of Engineering and technology</em>. <a href="http://lib.buet.ac.bd:8080/xmlui/handle/123456789/6586"> Link</a> </li>
+
+    <li><b>Sarker, D.K.</b> (2017). Numerical Predictions of Calm Water Resistance of a Modern Surface Combatant. <em>BS Thesis, Bangladsh University of Engineering and technology</em>. </li>
+  </ul>
+
