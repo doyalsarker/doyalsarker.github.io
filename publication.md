@@ -84,6 +84,10 @@ aside: false
   line-height: 0.5;
 }
 
+.pub-list li{
+  margin-bottom: 0.15rem;
+}
+
 </style>
 
 <div class="section-body">
