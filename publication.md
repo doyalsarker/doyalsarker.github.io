@@ -100,6 +100,6 @@ aside: false
   <summary>Journal Articles</summary>
   <ul class="pub-list">
     <li><b>Sarker, D.</b>, Ngo, T., & Das, T. (2025). Enhancement of hydrodynamics modeling for floating offshore wind turbines using multi-objective genetic algorithm. <em>Ocean Engineering</em>, 342, 122842. <a href="https://doi.org/10.1016/j.oceaneng.2025.122842" target="_blank"> doi.org/10.1016/j.oceaneng.2025.122842 </a> </li>
-    <li><b>Author A</b>, Author C. “Paper title…”. <em>Journal Name</em>, 2024.</li>
+    <li>Wang, L., Robertson, A., Jonkman, J., Liao, Y., Berthelsen, P. A., Abdelmoteleb, S.-E., Rohrer, P., Ramachandran Nair Rajasree, V., Bachynski-Polić, E., Clement, C., Le Cunff, C., Vlachogiannis, P., Peyrard, C., Pham, D. T., Leahy, P., Bouysses, V., Brun, C., Wang, L., Wang, L., Teng, L., Shi, W., Fu, Y., Abid, A., Cheng, Z., Chen, P., Hu, Z., Bai, H., Xu, K., Das, T., <b>Sarker, D.</b>, Ngo, T., Trubat Casal, P., Molins, C., Niosi, F., Dell’Edera, O., Paduano, B., Bertozzi, A., Bracco, G., Tagliafierro, B., Moghtadaei, A., & Wright, C. (2025). OC7 phase I: Toward practical sea-state-dependent modeling of hydrodynamic viscous drag and damping. <em>Ocean Engineering</em>, 336, 121745. <a href="https://doi.org/10.1016/j.oceaneng.2025.121745" target="_blank"> doi.org/10.1016/j.oceaneng.2025.121745 </a></li>
   </ul>
 </details>
