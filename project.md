@@ -84,9 +84,11 @@ aside: false
     </div>
 
     <div class="body-text">
-      <h6>OC7 Phase Ib: Viscous drag calibration</h6>
+      <h6>Damping calibration for offshore platforms</h6>
       <ul>
-        <li>Hydrodynamic drag</li>
+        <li>Investigated sea-state-dependent hydrodynamic damping coefficients for offshore platform in the IEA OC7 Phase Ib collaboration</li>
+        <li>Developed a regression-based model for a priori coefficient selection across untested sea states</li>
+        <li>Validated results using in-house code (CRAFTS) maintaining ±15% modeling accuracy, and contributed to a joint publication</li>
 
       </ul>
     </div>
