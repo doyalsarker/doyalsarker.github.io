@@ -84,7 +84,6 @@ aside: false
     <img src="{{ '/assets/Images/fixedcylinder.png' | relative_url }}" alt="Wave-Structure">
   </a>
 
-</div>
 
 
 
