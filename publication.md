@@ -179,9 +179,4 @@ aside: false
 
    </ul>
 
-
-
-</div>
-
    
-
