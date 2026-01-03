@@ -56,6 +56,7 @@ aside: false
     }
     
     .body-text li {
+      line-height: 1.25rem;
       margin-bottom: 0.5rem;
     }
     
