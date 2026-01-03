@@ -129,15 +129,16 @@ aside: false
   <!-- Project 4 -->
   <div class="body-item" class="section-divider">
     <div class="body-image">
-      <img src="{{ '/assets/Images/CFDProject.png' | relative_url }}">
+      <img src="{{ '/assets/Images/CFDProject2.png' | relative_url }}">
     </div>
 
     <div class="body-text">
       <h6>CFD analysis in steady flow using STAR-CCM+</h6>
       <ul>
-        <li>Conducted finite element modeling (FEM) and vibration analysis of land-based and floating wind turbine towers using ABAQUS</li>
-        <li>Performed frequency analysis using different element formulations (B31, S4, S8R) for a land-based wind turbine; the B31 beam element showed the closest agreement with analytical solutions, outperforming both   shell (S4, S8R) elements</li>
-        <li>Observed a reduction in the tower’s natural frequencies in the floating configuration compared to the land-based turbine</li>
+        <li>Conducted a computational fluid dynamics (CFD) study for a fixed, partially submerged horizontal cylinder in 2D steady flow using STAR-CCM+.</li>
+        <li>A volume of fluid (VOF) method was applied to capture the interface between two incompressible fluids: air and water</li>
+        <li>Mesh sensitivity study revealed that results are highly dependent on the grid size, however, with the finer grid resolution, the results were approaches to the asymptotic convergence region</li>
+        <li>Drag coefficients for various velocities were found in well agreement with the experimental results, except for the critical Reynolds number</li>
       </ul>
     </div>
   </div>
