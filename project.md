@@ -113,15 +113,16 @@ aside: false
   <!-- Project 3 -->
   <div class="body-item" class="section-divider">
     <div class="body-image">
-      <img src="{{ '/assets/Images/FC2Project.png' | relative_url }}">
+      <img src="{{ '/assets/Images/FEAProject.png' | relative_url }}">
     </div>
 
     <div class="body-text">
-      <h6>FEA of wind turbine's tower</h6>
+      <h6>FEM of wind turbine's tower</h6>
       <ul>
-        <li>Conducted finite element modeling and vibration analysis of land-based and floating turbine tower’s in ABAQUS</li>
-        <li>Validated CRAFTS simulations against experimental data, achieving close agreement in tower-bending response and identifying overprediction in pitch-motion damping for future model refinement.</li>
-        <li>Demonstrated a fast and plug-and-play integration of controller e.g., tuned mass damper (TMD) with main dynamical system, without relying on model reduction or explicit equation derivation</li>
+        <li>Conducted finite element modeling (FEM) and vibration analysis of land-based and floating wind turbine towers using ABAQUS</li>
+        <li>Performed frequency analysis using different element formulations (B31, S4, S8R) for a land-based wind turbine; the B31 beam element showed the closest agreement with analytical solutions, outperforming both   shell (S4, S8R) elements</li>
+        <li>Observed a reduction in the tower’s natural frequencies in the floating configuration compared to the land-based turbine</li>
+
       </ul>
     </div>
   </div>
