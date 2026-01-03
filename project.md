@@ -73,9 +73,9 @@ aside: false
 
 
 <div class="body-section">
-<hr class="section-divider">
+
   <!-- Project 1 -->
-  <div class="body-item">
+  <div class="body-item" class="section-divider">
     <div class="body-image">
       <img src="{{ '/assets/Images/OC7Project.png' | relative_url }}">
     </div>
