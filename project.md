@@ -13,7 +13,7 @@ aside: false
     .section-divider{
       border-top: 1px solid #FF00FF;
       padding-top: 0.75rem;
-      margin-top: 2rem;
+      margin-top: 1rem;
       }
   
     .body-item {
