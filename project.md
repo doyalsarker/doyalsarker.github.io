@@ -42,8 +42,7 @@ aside: false
     .caption {
       font-size: 0.85rem;
       text-align: center;
-      margin-top: 0.5rem;
-      color: #555;
+      margin-top: 0.1rem;
     }
     
     .body-text{
