@@ -79,7 +79,7 @@ aside: false
     </div>
 
     <div class="body-text">
-      <h6>OC7 Phase Ib: Viscous drag calibration</h6>
+      OC7 Phase Ib: Viscous drag calibration
       <ul>
         <li>Hydrodynamic drag</li>
 
