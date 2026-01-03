@@ -98,6 +98,7 @@ aside: false
   <div class="body-item" class="section-divider">
     <div class="body-image">
       <img src="{{ '/assets/Images/FC2Project.png' | relative_url }}">
+      <div class="caption">Image source <a href="https://iopscience.iop.org/article/10.1088/1742-6596/2626/1/012067" target="_blank"> here </a></div>
     </div>
 
     <div class="body-text">
