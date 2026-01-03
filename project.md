@@ -25,10 +25,14 @@ aside: false
     }
     
     .body-image img {
-      width: 100%;
-      height: auto;
-      display: block;
+       width: 400px;
+       max-width: 100%;
+       height: 220px;          /* keep uniform tile height */
+       object-fit: contain;    /* ✅ no cropping */
+       background: #fff;       /* optional: fill empty space */
+       display: inline-block;
     }
+
     
     .caption {
       font-size: 0.85rem;
