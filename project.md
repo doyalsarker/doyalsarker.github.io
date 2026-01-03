@@ -66,12 +66,14 @@ aside: false
 </style>
 
 
-<div class+"body-section">
+<div class="body-section">
 
-<!-- Project 1 -->
-<div class="body-item">
-  <div class="body-image>
-    <img src="assets/Images/OC7Project.png">
+  <!-- Project 1 -->
+  <div class="body-item">
+    <div class="body-image>
+      <img src="{{ '/assets/Images/hydrodynamics.png' | relative_url }}">
+    </div>
+
   </div>
 
 </div>
