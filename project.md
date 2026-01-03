@@ -12,10 +12,9 @@ aside: false
     }
   
     .section-divider {
-      border: none;
       border-top: 1px solid #FF00FF;
-      margin: 0.5rem 0;   /* reduce spacing */
-      padding: 0;         /* remove padding */
+      padding-top: 0.75rem;
+      margin-top: 2rem;
     }
   
     .body-item {
