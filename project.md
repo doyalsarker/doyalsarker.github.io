@@ -10,11 +10,13 @@ aside: false
       max-width: 1100px;
       margin: 0 auto;
     }
-    .section-divider{
+  
+    .section-divider {
+      border: none;
       border-top: 1px solid #FF00FF;
-      padding-top: 0.75rem;
-      margin-top: 1rem;
-      }
+      margin: 0.5rem 0;   /* reduce spacing */
+      padding: 0;         /* remove padding */
+    }
   
     .body-item {
       display: grid;
