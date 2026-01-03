@@ -90,10 +90,24 @@ aside: false
         <li>Investigated sea-state-dependent hydrodynamic damping coefficients for offshore platform in the IEA OC7 Phase Ib collaboration</li>
         <li>Developed a regression-based model for a priori coefficient selection across untested sea states</li>
         <li>Validated results using in-house code (CRAFTS) maintaining ±15% modeling accuracy, and contributed to a joint publication</li>
-
       </ul>
     </div>
+  </div>
 
+  <!-- Project 2 -->
+  <div class="body-item" class="section-divider">
+    <div class="body-image">
+      <img src="{{ '/assets/Images/OC7Project.png' | relative_url }}">
+    </div>
+
+    <div class="body-text">
+      <h6>Damping calibration for offshore platforms</h6>
+      <ul>
+        <li>Investigated sea-state-dependent hydrodynamic damping coefficients for offshore platform in the IEA OC7 Phase Ib collaboration</li>
+        <li>Developed a regression-based model for a priori coefficient selection across untested sea states</li>
+        <li>Validated results using in-house code (CRAFTS) maintaining ±15% modeling accuracy, and contributed to a joint publication</li>
+      </ul>
+    </div>
   </div>
 
 </div>
