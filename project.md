@@ -23,7 +23,7 @@ aside: false
       grid-template-columns: 1fr 1.2fr;
       gap: 2rem;
       align-items: center;
-      padding: 2rem 0;
+      padding: 0.5rem 0;
     }
     
     .body-image img {
