@@ -71,14 +71,14 @@ aside: false
 
 
 <div class="body-section">
-
+<hr class="section-divider">
   <!-- Project 1 -->
   <div class="body-item">
     <div class="body-image">
       <img src="{{ '/assets/Images/OC7Project.png' | relative_url }}">
     </div>
 
-    <div class="body-text" class="section-divider">
+    <div class="body-text">
       OC7 Phase Ib: Viscous drag calibration
       <ul>
         <li>Hydrodynamic drag</li>
