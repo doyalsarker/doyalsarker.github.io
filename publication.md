@@ -59,13 +59,13 @@ aside: false
   list-style: none;
   padding-left: 0;
   margin: 1.25rem 0 2rem 0;
-  font-size: 0.85rem;
+  font-size: 0.90rem;
 }
 .sec-index li { margin: 0; }
 .sec-index a {
   text-decoration: none;
   padding: 0.2rem 0.1rem;
-  border-bottom: 2px solid currentColor;
+  border-bottom: 1px solid currentColor;
 }
 .sec-index a:hover {
   border-bottom-style: dotted;
