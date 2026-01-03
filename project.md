@@ -11,7 +11,7 @@ aside: false
       margin: 0 auto;
     }
     .section-divider{
-      border-top: 2px solid #FF00FF;
+      border-top: 1px solid #FF00FF;
       padding-top: 0.75rem;
       margin-top: 2rem;
       }
@@ -78,7 +78,7 @@ aside: false
       <img src="{{ '/assets/Images/OC7Project.png' | relative_url }}">
     </div>
 
-    <div class="body-text">
+    <div class="body-text" class="section-divider">
       OC7 Phase Ib: Viscous drag calibration
       <ul>
         <li>Hydrodynamic drag</li>
