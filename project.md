@@ -25,7 +25,11 @@ aside: false
       align-items: center;
       padding: 1.0rem 0;
     }
-    
+  
+    .body-image {
+      text-align: center;
+      margin-bottom: 1.5rem;
+    }
     .body-image img {
        width: 400px;
        max-width: 100%;
