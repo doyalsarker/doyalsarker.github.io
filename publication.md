@@ -119,7 +119,7 @@ aside: false
 <ul class="sec-index">
   <li><a href="#journal">Journal Articles</a></li>
   <li><a href="#conference">Conference Proceedings</a></li>
-  <li><a href="#these">Theses</a></li>
+  <li><a href="#theses">Theses</a></li>
   <li><a href="#poster">Poster &amp; Presentation</a></li>
 </ul>
     
@@ -136,7 +136,7 @@ aside: false
   </ul>
 
 
-<h6>Conference Proceedings</h6>
+<h6 id="conference">Conference Proceedings</h6>
   <ul class="pub-list">
     
     <li><b>Sarker, D.</b>, Sakif, M., Ngo, T., & Das, T. (2025). Hydrodynamic Modeling Improvements for Floating Offshore Wind Turbines with Validation Results. <em>IFAC-PapersOnLine</em>, 59(30), 227-232. <a       href="https://doi.org/10.1016/j.ifacol.2025.12.241" target="_blank"> doi.org/10.1016/j.ifacol.2025.12.241 </a> </li>
@@ -156,7 +156,7 @@ aside: false
     <li><b>Sarker, D.K.</b>, Ahsanullah, M.S., & Rahaman, M. M. (2017). Numerical Predictions of Calm Water Resistance of a Modern Surface Combatant. <em>International Conference on Mechanical, Industrial and Materials Engineering 2017</em>. <a href="https://www.researchgate.net/profile/Doyal-Kumar-Sarker/publication/372622848_Numerical_Predictions_of_Calm_Water_Resistance_of_a_Modern_Surface_Combatant/links/64c04a11b9ed6874a544f168/Numerical-Predictions-of-Calm-Water-Resistance-of-a-Modern-Surface-Combatant.pdf"> Link </a></li>
   </ul>
 
-<h6>Theses</h6>
+<h6 id="theses">Theses</h6>
   <ul class="pub-list">
 
     <li><b>Sarker, D.K.</b> (2024). Acausal Modeling and Validation of Platform Hydrodynamics of a Floating Offshore Wind Turbine. <em>MS Thesis, University of Central Florida</em>. <a href="https://stars.library.ucf.edu/etd2023/457/"> Link</a> </li>
@@ -166,7 +166,7 @@ aside: false
     <li><b>Sarker, D.K.</b> (2017). Numerical Predictions of Calm Water Resistance of a Modern Surface Combatant. <em>BS Thesis, Bangladsh University of Engineering and technology</em>. </li>
   </ul>
 
-<h6>Poster & Presentation</h6>
+<h6 id="poster">Poster & Presentation</h6>
   <ul class="pub-list">
     
     <li>Development of an AI-Enabled Predictive Hydrodynamics Model for Floating Offshore Wind Turbines (FOWT). <em>Student Scholar Symposium at Student Research Week 2025, University of Central Florida</em> <a href="https://researchweek.ucf.edu/2025-student-scholar-symposium-winners/" target="_blank"> See Winner List </a> | <a href="{{ '/assets/Files/SSS2025_Sarker.pptx' | relative_url }}" download> Download Poster </a></li>
