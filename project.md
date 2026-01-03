@@ -30,7 +30,7 @@ aside: false
       margin-bottom: 1.5rem;
     }
     .body-image img {
-       width: 600px;
+       width: 800px;
        max-width: 100%;
        height: 220px;          /* keep uniform tile height */
        object-fit: contain;    /* ✅ no cropping */
