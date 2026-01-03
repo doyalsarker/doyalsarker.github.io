@@ -74,6 +74,14 @@ aside: false
       <img src="{{ '/assets/Images/OC7Project.png' | relative_url }}">
     </div>
 
+    <div class="body-text">
+      <h6>OC7 Phase Ib: Viscous drag calibration</h6>
+      <ul>
+        <li>Hydrodynamic drag</li>
+
+      </ul>
+    </div>
+
   </div>
 
 </div>
