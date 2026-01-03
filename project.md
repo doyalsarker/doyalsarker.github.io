@@ -70,7 +70,7 @@ aside: false
 
   <!-- Project 1 -->
   <div class="body-item">
-    <div class="body-image>
+    <div class="body-image">
       <img src="{{ '/assets/Images/hydrodynamics.png' | relative_url }}">
     </div>
 
