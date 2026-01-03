@@ -105,7 +105,23 @@ aside: false
       <ul>
         <li>Participated in the FOCAL Campaign II study on semi-submersible hull control with TMD</li>
         <li>Validated CRAFTS simulations against experimental data, achieving close agreement in tower-bending response and identifying overprediction in pitch-motion damping for future model refinement.</li>
-        <li>Demonstrated a fast and plug-and-play integration of controller e.g., tined mass damper (TMD) with main dynamical system, without relying on model reduction or explicit equation derivation</li>
+        <li>Demonstrated a fast and plug-and-play integration of controller e.g., tuned mass damper (TMD) with main dynamical system, without relying on model reduction or explicit equation derivation</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Project 3 -->
+  <div class="body-item" class="section-divider">
+    <div class="body-image">
+      <img src="{{ '/assets/Images/FC2Project.png' | relative_url }}">
+    </div>
+
+    <div class="body-text">
+      <h6>FEA of wind turbine's tower</h6>
+      <ul>
+        <li>Conducted finite element modeling and vibration analysis of land-based and floating turbine tower’s in ABAQUS</li>
+        <li>Validated CRAFTS simulations against experimental data, achieving close agreement in tower-bending response and identifying overprediction in pitch-motion damping for future model refinement.</li>
+        <li>Demonstrated a fast and plug-and-play integration of controller e.g., tuned mass damper (TMD) with main dynamical system, without relying on model reduction or explicit equation derivation</li>
       </ul>
     </div>
   </div>
