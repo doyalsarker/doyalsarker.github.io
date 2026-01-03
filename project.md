@@ -41,9 +41,9 @@ aside: false
       color: #555;
     }
     
-    .body-text h3 {
+    .body-text{
       margin-top: 0;
-      font-size: 1.25rem;
+      font-size: 1.0rem;
     }
     
     .body-text ul {
