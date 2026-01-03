@@ -59,6 +59,7 @@ aside: false
   list-style: none;
   padding-left: 0;
   margin: 1.25rem 0 2rem 0;
+  font-size: 0.85rem;
 }
 .sec-index li { margin: 0; }
 .sec-index a {
